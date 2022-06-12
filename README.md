@@ -1,1 +1,2 @@
-# python_spambot
+# Python Spambot
+Just for fun :D
